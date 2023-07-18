@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adi Emmanuel
+- 👋 Hi, I’m Emmanuel Adi
 - 👀 I’m interested in Computer Programming and Software Engeneering
 - 🌱 I’m currently learning DevOps Engeneering with JOMACS IT SOLUTIONS
 - 💞️ I’m looking to collaborate on DevOps Projects 

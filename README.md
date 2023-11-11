@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Emmanuel Koi Adi
 - 👀 Infinite interest in Computer Programming and Software Engeneering
-- 🌱 An Associate DevOps Engeneer at JOMACS IT SOLUTIONS
-- On Web Development at Mildred School of Programming Language
-- 💞️ Looking to collaborate on DevOps and Web Development Projects  
-- 📫 Reach me at adiemmanuel10@gmail.com / adieddy@outlook.com also on Linkedin
+- 🌱 Aspiring Full-Stack Developer / DevOps Engineer
 
 <!---
 adieddygit/adieddygit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Koi Adi
-- 👀 Infinite interest in Computer Programming and Software Engeneering
+- 👀 I have an infinite interest in Computer Programming and Software Engeneering
 - 🌱 Aspiring Full-Stack Developer / DevOps Engineer
 
 <!---

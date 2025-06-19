@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Koi Adi
 - 👀 I have an infinite interest in Computer Programming and Software Engeneering
-- 🌱 Aspiring Full-Stack Developer / DevOps Engineer
+- 🌱 Full-Stack Developer / DevOps Engineer / Data Science / Machine Learning / AI
 
 <!---
 adieddygit/adieddygit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

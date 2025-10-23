@@ -53,7 +53,7 @@ Music and design fuel my productivity. 🎧🎨
 
 💼 LinkedIn: www.linkedin.com/in/emmanuel-a-618594265
 
-🐦 Twitter: @adieddy
+🐦 Twitter: @adieddy10
 
 📧 Email: adiemmanuel10v@gmail.com
 

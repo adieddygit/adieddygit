@@ -53,16 +53,15 @@ Music and design fuel my productivity. 🎧🎨
 
 📫 Let’s Connect
 
-🌐 Portfolio Website
- www.adieddy.com
+[🌐 Portfolio Website](https://www.adieddy.com)
 
-💼 LinkedIn: www.linkedin.com/in/emmanuel-a-618594265
+[💼 LinkedIn:](www.linkedin.com/in/emmanuel-a-618594265)
 
-🐦 X: @adieddy10
+[🐦 X:](https://@adieddy10)
 
-📧 Email: adiemmanuel10v@gmail.com
+[📧 Email:](https://adiemmanuel10v@gmail.com0)
 
-📊 GitHub Stats: [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)](https://github.com/anuraghazra/github-readme-stats)
+[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

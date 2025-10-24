@@ -58,11 +58,11 @@ Music and design fuel my productivity. 🎧🎨
 
 💼 LinkedIn: www.linkedin.com/in/emmanuel-a-618594265
 
-🐦 Twitter: adieddy10
+🐦 X: @adieddy10
 
 📧 Email: adiemmanuel10v@gmail.com
 
-📊 GitHub Stats:[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)](https://github.com/anuraghazra/github-readme-stats)
+📊 GitHub Stats: [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

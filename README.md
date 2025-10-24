@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Emmanuel Adi**!
 
-### 💻 DevOps Engineer | Software Developer | Problem Solver | 🩺 Health Tech Enthusiast
+### 💻 DevOps Engineer | Software Developer | Cloud Engineer| 🩺 Health Tech Enthusiast
 
 ---
 
@@ -47,10 +47,15 @@ I’m open to collaborations on **health tech** projects, web applications, and 
 
 ### 📫 Find Me Here:
 
-* 🌐 **Portfolio:** [adieddy.com](https://www.adieddy.com)
-* 💼 **LinkedIn:** [emmanuel-a-618594265](https://www.linkedin.com/in/emmanuel-a-618594265)
-* 🐦 **X (Twitter):** [@adieddy10](https://twitter.com/adieddy10)
-* 📧 **Email:** [adiemmanuel10@gmail.com](mailto:adiemmanuel10@gmail.com)
+### 🤝 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adieddy.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adieddy.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-a-618594265)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X-@adieddy10-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adieddy10)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-adiemmanuel10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiemmanuel10@gmail.com)
 
 ---
 

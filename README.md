@@ -10,10 +10,10 @@ I’m passionate about building **impactful digital solutions** that blend logic
 
 ### 🌱 Current Focus & Interests
 
-* **Front-End Development (ProDev):** Diving deep into **React, Next.js, and React Native**.
-* **Design & Empathy:** Passionate about **UI/UX design**, accessibility, and user-centered development.
-* **Health Tech Bridge:** Bringing a clinical background into problem-solving by bridging healthcare and technology.
-* **The Backend:** Continuously learning **API integration**, automation, and **database design**.
+![Frontend Development](https://img.shields.io/badge/Front--End_Development-React,_Next.js,_React_Native-blue?style=for-the-badge&logo=react)
+![Design & Empathy](https://img.shields.io/badge/Design_&_Empathy-UI/UX,_Accessibility-pink?style=for-the-badge&logo=figma)
+![Health Tech Bridge](https://img.shields.io/badge/Health_Tech_Bridge-Clinician_+_Developer-green?style=for-the-badge&logo=heartbeat)
+![The Backend](https://img.shields.io/badge/The_Backend-API,_Automation,_Database-orange?style=for-the-badge&logo=postgresql)
 
 ---
 

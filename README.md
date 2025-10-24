@@ -10,7 +10,7 @@ I’m passionate about building **impactful digital solutions** that blend logic
 
 ## 🌱 Current Focus & Interests</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Front--End_Development-React,_Next.js,_React_Native-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Design_&_Empathy-UI/UX,_Accessibility-pink?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/Health_Tech_Bridge-Clinician_+_Developer-green?style=for-the-badge&logo=heartbeat" />

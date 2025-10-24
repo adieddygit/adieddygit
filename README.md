@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m passionate about building **impactful digital solutions** that blend logic, design, and purpose. Currently growing through the ALX Software Engineering Program, I enjoy transforming ideas into real-world applications—one line of code at a time.
+I’m passionate about building **impactful digital solutions** that blend logic, design, and purpose. Currently growing through the ALX Software Engineering Program, I enjoy transforming ideas into real-world applications.
 
 ## 🌱 Current Focus & Interests</h3>
 

@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Emmanuel Adi**!
 
-### 💻 DevOps Engineer | Software Developer | Problem Solver
+### 💻 DevOps Engineer | Software Developer | Problem Solver | 🩺 Health Tech Enthusiast
 
 ---
 
@@ -12,7 +12,7 @@ I’m passionate about building **impactful digital solutions** that blend logic
 
 * **Front-End Development (ProDev):** Diving deep into **React, Next.js, and React Native**.
 * **Design & Empathy:** Passionate about **UI/UX design**, accessibility, and user-centered development.
-* **Health Tech:** Bridging healthcare and technology, bringing a clinical background into problem-solving.
+* **Health Tech Bridge:** Bringing a clinical background into problem-solving by bridging healthcare and technology.
 * **The Backend:** Continuously learning **API integration**, automation, and **database design**.
 
 ---
@@ -43,29 +43,30 @@ A high-fidelity **Figma-based prototype** exploring modern booking flows and res
 
 ## 🤝 Let's Connect!
 
-I'm open to collaborations on **health tech** projects, web applications, and learning projects.
+I’m open to collaborations on **health tech** projects, web applications, and learning projects.
 
-> **💡 Fun Fact:** I see coding as structured creativity—logic that brings ideas to life.
+### 📫 Find Me Here:
 
-I enjoy mentoring peers, breaking complex ideas into simple, visual explanations.
+* 🌐 **Portfolio:** [adieddy.com](https://www.adieddy.com)
+* 💼 **LinkedIn:** [emmanuel-a-618594265](https://www.linkedin.com/in/emmanuel-a-618594265)
+* 🐦 **X (Twitter):** [@adieddy10](https://twitter.com/adieddy10)
+* 📧 **Email:** [adiemmanuel10@gmail.com](mailto:adiemmanuel10@gmail.com)
 
-Music and design fuel my productivity. 🎧🎨
+---
 
-📫 Let’s Connect
+## ⚡ Fun Facts & Philosophy
 
-[🌐 Portfolio Website](https://www.adieddy.com)
+> **💡 Structured Creativity:** I see coding as structured creativity—logic that brings ideas to life.
 
-[💼 LinkedIn](https://www.linkedin.com/in/emmanuel-a-618594265)
+> **✨ Quote I Live By:** “Vision without execution is just hallucination.” – Thomas Edison
 
-[🐦 X](@adieddy10)
+* I enjoy mentoring peers, breaking complex ideas into simple, visual explanations.
+* Music and design fuel my productivity. 🎧🎨
 
-[📧 Email](adiemmanuel10@gmail.com)
+### 📊 My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)
-
-
-
-
-✨ Quote I Live By
-
-“Vision without execution is just hallucination.” – Thomas Edison
+<p align="center">
+    [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit&show_icons=true&theme=onedark&hide_border=true)](https://github.com/adieddygit)
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adieddygit&layout=compact&theme=onedark&hide_border=true)](https://github.com/adieddygit)
+</p>

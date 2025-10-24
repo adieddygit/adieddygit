@@ -61,7 +61,7 @@ Music and design fuel my productivity. 🎧🎨
 
 [📧 Email:](https://adiemmanuel10v@gmail.com0)
 
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit)]
 
 
 

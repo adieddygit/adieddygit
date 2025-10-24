@@ -8,12 +8,15 @@
 
 I’m passionate about building **impactful digital solutions** that blend logic, design, and purpose. Currently growing through the ALX Software Engineering Program, I enjoy transforming ideas into real-world applications—one line of code at a time.
 
-### 🌱 Current Focus & Interests
+<h3 align="center">🌱 Current Focus & Interests</h3>
 
-![Frontend Development](https://img.shields.io/badge/Front--End_Development-React,_Next.js,_React_Native-blue?style=for-the-badge&logo=react)
-![Design & Empathy](https://img.shields.io/badge/Design_&_Empathy-UI/UX,_Accessibility-pink?style=for-the-badge&logo=figma)
-![Health Tech Bridge](https://img.shields.io/badge/Health_Tech_Bridge-Clinician_+_Developer-green?style=for-the-badge&logo=heartbeat)
-![The Backend](https://img.shields.io/badge/The_Backend-API,_Automation,_Database-orange?style=for-the-badge&logo=postgresql)
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End_Development-React,_Next.js,_React_Native-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Design_&_Empathy-UI/UX,_Accessibility-pink?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Health_Tech_Bridge-Clinician_+_Developer-green?style=for-the-badge&logo=heartbeat" />
+  <img src="https://img.shields.io/badge/The_Backend-API,_Automation,_Database-orange?style=for-the-badge&logo=postgresql" />
+</p>
+
 
 ---
 

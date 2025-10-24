@@ -54,7 +54,7 @@ I’m open to collaborations on **health tech** projects, web applications, and 
 
 ---
 
-## ⚡ Fun Facts & Philosophy
+## ⚡ Fun Facts
 
 > **💡 Structured Creativity:** I see coding as structured creativity—logic that brings ideas to life.
 
@@ -65,8 +65,6 @@ I’m open to collaborations on **health tech** projects, web applications, and 
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-    [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit&show_icons=true&theme=onedark&hide_border=true)](https://github.com/adieddygit)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adieddygit&show_icons=true&theme=onedark&hide_border=true)](https://github.com/adieddygit)
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adieddygit&layout=compact&theme=onedark&hide_border=true)](https://github.com/adieddygit)
-</p>
+

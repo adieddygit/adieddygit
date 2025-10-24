@@ -17,18 +17,14 @@ I’m passionate about building **impactful digital solutions** that blend logic
 
 ---
 
-## 🧠 Tech Stack
-
+🧠 Tech Stack
 A snapshot of the tools and technologies I use:
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages & Frameworks** | **Python**, **JavaScript**, HTML, CSS, SQL, Flask, React |
-| **Databases & ORMs** | SQLAlchemy |
-| **Version Control** | **Git**, **GitHub** |
-| **Design & Productivity** | Figma, Canva, VS Code, Trello |
-| **Styling** | Bootstrap |
-
+Languages & Frameworks
+Databases & ORMs
+Version Control
+Design, IDE & Productivity
+Styling
 ---
 
 ## 🧑‍💻 Featured Projects
@@ -49,20 +45,16 @@ I’m open to collaborations on **health tech** projects, web applications, and 
 
 ### 🤝 Connect with Me
 
-<p align="center">
-    [![Portfolio](https://img.shields.io/badge/Portfolio-adieddy.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adieddy.com)
-    </p>
-<p align="center">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-a-618594265)
-    </p>
-<p align="center">
-    [![Twitter](https://img.shields.io/badge/X-@adieddy10-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adieddy10)
-    </p>
-<p align="center">
-    [![Email](https://img.shields.io/badge/Email-adiemmanuel10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiemmanuel10@gmail.com)
+### 🤝 Connect with Me
 
-    </p>
-    
+[![Portfolio](https://img.shields.io/badge/Portfolio-adieddy.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adieddy.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-a-618594265)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X-@adieddy10-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adieddy10)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-adiemmanuel10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiemmanuel10@gmail.com)
+
 ---
 
 ## ⚡ Fun Facts

@@ -8,7 +8,7 @@
 
 I’m passionate about building **impactful digital solutions** that blend logic, design, and purpose. Currently growing through the ALX Software Engineering Program, I enjoy transforming ideas into real-world applications—one line of code at a time.
 
-<h3 align="center">🌱 Current Focus & Interests</h3>
+## 🌱 Current Focus & Interests</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End_Development-React,_Next.js,_React_Native-blue?style=for-the-badge&logo=react" />
@@ -45,10 +45,6 @@ A high-fidelity **Figma-based prototype** exploring modern booking flows and res
 I’m open to collaborations on **health tech** projects, web applications, and learning projects.
 
 ### 📫 Find Me Here:
-
-### 🤝 Connect with Me
-
-### 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adieddy.com-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adieddy.com)
 &nbsp;

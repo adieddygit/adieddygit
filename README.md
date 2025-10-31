@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m **Emmanuel Adi**!
+# 👋 Hi there, I’m **Emmanuel Adi**
 
 ### 💻 DevOps Engineer | Software Developer | Cloud Engineer| 🩺 Health Tech Enthusiast
 
